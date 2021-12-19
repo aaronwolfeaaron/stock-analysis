@@ -11,7 +11,7 @@ there was near unanymous loss in value. On both years' data, the stocks were ref
 fast time, as evidenced by the stopwatch from the macro:
 
 ![2017](https://github.com/aaronwolfeaaron/stock-analysis/blob/main/Screen%20Shot%202021-12-15%20at%204.19.12%20PM.png)
-
+![2018](https://github.com/aaronwolfeaaron/stock-analysis/blob/main/Screen%20Shot%202021-12-15%20at%204.19.21%20PM.png)
 #Summary: 
 
 ###Advantages and Disadvantages: The clear advantage of refactoring code is that it makes it
