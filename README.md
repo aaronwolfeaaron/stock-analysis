@@ -10,6 +10,9 @@ simple click-of-a-button to sift through thousands of data points.
 there was near unanymous loss in value. On both years' data, the stocks were refactored in an extremely
 fast time, as evidenced by the stopwatch from the macro:
 
+Screen Shot 2021-12-15 at 4.19.12 PM.png
+
+
 
 
 #Summary: 
