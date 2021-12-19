@@ -14,6 +14,7 @@ fast time, as evidenced by the stopwatch from the macro:
 ![2018](https://github.com/aaronwolfeaaron/stock-analysis/blob/main/Screen%20Shot%202021-12-15%20at%204.19.21%20PM.png)
 
 ![2017](https://github.com/aaronwolfeaaron/stock-analysis/blob/main/VBA_Challenge_2017.png)
+![2018](https://github.com/aaronwolfeaaron/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 #Summary: 
 
